@@ -1,1 +1,1 @@
-# Social-Media-Automation
+# This Repository is a project for automating social media engagement, campaning, and increasing the reach for a company, firm or individual by using AI tools
